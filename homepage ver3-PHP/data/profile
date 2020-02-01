@@ -1,0 +1,43 @@
+    <div class="content">
+       <h1 class="profile">입대부터 지금까지..</h1>
+        <img src="./image/military.jpg" width="80%">  
+        
+        <div class="grid_profile">
+            <div id="profile_left">
+                17. 09. 14.<br><br>
+                10. 12.<br><br><br>
+                <br>
+                11. 01.<br><br>
+                <br>
+                18. 01. 01.<br>
+                <br>
+                05. 24.<br>
+                <br>
+                <br><br>
+                08. 01.
+                
+                
+            </div>
+            <div id="profile_right">
+                [입소] 23연대 5중대 3소대<br>
+                <br>
+                [수료] 꿈만 같았던, 수료식<br>
+                [입교] 경찰학교 1091기<br>
+                [진급] 이경<br>
+                <br>
+                [수료] 경찰학교 1091기<br>
+                [전입] 제 4기동단 41중대<br>
+                <br>
+                [진급] 일경<br>
+                <br>
+                [전입] 제 2기동단 715중대<br>
+                [소속] 서울지방경찰청<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;112 종합상황실<br>
+                <br>
+                [진급] 상경
+                
+                
+            </div>
+            
+        </div>        
+    </div>
