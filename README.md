@@ -4,10 +4,10 @@
 
 사용 언어를 새로 도입하며 ver develop
 
-ver1 html, css
-ver2 html, css, js
-ver3 html, css, js, php
-ver4 html, css, js, php, mysql
+- ver1 html, css
+- ver2 html, css, js
+- ver3 html, css, js, php
+- ver4 html, css, js, php, mysql
 
 # Web
 http://dd5dd5.me 였으나, 현재는 사용하지 않음.
