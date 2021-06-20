@@ -8,10 +8,12 @@
 - ver2 html, css, js
 - ver3 html, css, js, php
 - ver4 html, css, js, php, mysql
+- ver5 php
+- ver6 reactJs, vercel
 
 # Web
 http://dd5dd5.me 였으나, 현재는 사용하지 않음.
 이를 새로 리뉴얼하여 만든 것이 아래 프로젝트
 
 git : https://github.com/d5br5/d5br5.com
-web : http://dd5dd5.com
+web : https://d5br5.com
